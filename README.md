@@ -1,4 +1,4 @@
-![Rich Address Wallet List](https://raw.githubusercontent.com/Pymmdrza/Rich-Address-Wallet/main/richwallet1.png)
+B![Rich Address Wallet List](https://raw.githubusercontent.com/Pymmdrza/Rich-Address-Wallet/main/richwallet1.png)
 
 # Rich Address Wallet
 All Rich Address Wallet Cryptocurrency
